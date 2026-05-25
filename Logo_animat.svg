@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24">
+  <!-- Generator: Adobe Illustrator 29.6.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 207)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#_未命名的渐变);
+      }
+
+      .st1 {
+        fill: #888;
+      }
+
+      .st2 {
+        fill: url(#_未命名的渐变_2);
+      }
+    </style>
+    <linearGradient id="_未命名的渐变" data-name="未命名的渐变" x1="9.5" y1="2.39" x2="9.5" y2="15.39" gradientTransform="translate(0 23.89) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ff0"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_2" data-name="未命名的渐变 2" x1="14.5" y1="2.39" x2="14.5" y2="15.39" gradientTransform="translate(0 23.89) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ff0"/>
+    </linearGradient>
+  </defs>
+  <g id="LeftLED">
+    <animateTransform accumulate="none" additive="sum" attributeName="transform" begin="0s" calcMode="spline" dur="3s" fill="freeze" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1" keyTimes="0; 0.25; 0.5; 0.75; 1" repeatCount="indefinite" restart="whenNotActive" type="rotate" values="0 9.5 7.5; -30 9.5 7.5; 0 9.5 7.5; 30 9.5 7.5; 0 9.5 7.5"/>
+    <path class="st1" d="M9.25,7.5h.5c.28,0,.5.22.5.5v.5h-1.5v-.5c0-.28.22-.5.5-.5Z"/>
+    <polygon class="st0" points="11.25 21.5 7.75 21.5 8.75 8.5 10.25 8.5 11.25 21.5"/>
+  </g>
+  <g id="RightLED">
+    <animateTransform accumulate="none" additive="sum" attributeName="transform" begin="0s" calcMode="spline" dur="3s" fill="freeze" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1" keyTimes="0; 0.25; 0.5; 0.75; 1" repeatCount="indefinite" restart="whenNotActive" type="rotate" values="0 14.5 7.5; 30 14.5 7.5; 0 14.5 7.5; -30 14.5 7.5; 0 14.5 7.5"/>
+    <path class="st1" d="M14.25,7.5h.5c.28,0,.5.22.5.5v.5h-1.5v-.5c0-.28.22-.5.5-.5Z"/>
+    <polygon class="st2" points="16.25 21.5 12.75 21.5 13.75 8.5 15.25 8.5 16.25 21.5"/>
+  </g>
+  <g>
+    <line class="st1" x1="7.5" y1="17.72" x2="16.5" y2="17.72"/>
+    <line class="st1" x1="19" y1="20.7" x2="5" y2="20.7"/>
+    <path class="st1" d="M5.5,19.5h1v-1c0-.28.22-.5.5-.5h.5v-.28h-1.4V6.7h3.18v.95h.4v-.95h4.64v.95h.4v-.95h3.2v11.02h1.03l1.27-1.41,1.27,1.41h1.03V4.97c0-.17-.05-.23-.16-.31l-4.16-2.88h-2.16v3.42h1.88v.94H6.1v-.94h1.83V1.78h-2.11l-3.83,2.64c-.13.1-.48.29-.48.46h0v12.85H.5c-.27-.01-.5.22-.5.49v1.98c0,.28.22.5.5.5h4.5v-.7c0-.28.22-.5.5-.5ZM18.52,17.25v-2.77l1.27,1.36-1.27,1.41ZM20.21,11.02l-1.59-1.73h0l1.55-1.73,1.59,1.78-1.55,1.69h0ZM21.9,10.08v2.81l-1.27-1.41,1.27-1.41h0ZM19.79,11.49l-1.27,1.36v-2.77l1.27,1.41ZM18.61,13.69l1.59-1.73,1.59,1.69-1.59,1.73s-1.59-1.69-1.59-1.69ZM21.9,17.25l-1.27-1.41,1.27-1.41v2.81h0ZM21.9,5.72v2.77l-1.27-1.36c.05-.19,1.15-1.33,1.27-1.41ZM21.52,5.2l-1.36,1.45-1.27-1.45h2.63ZM18.52,5.72l1.27,1.41-1.27,1.36v-2.77ZM5.49,17.25l-1.27-1.41c.23-.26,1.04-1.25,1.27-1.41v2.81h0ZM5.39,13.69l-1.59,1.69-1.59-1.69,1.55-1.78,1.64,1.78h0ZM2.21,9.33l1.55-1.78h0l1.64,1.73-1.59,1.73-1.59-1.69h0ZM5.49,12.85l-1.27-1.41,1.27-1.36v2.77ZM5.49,8.49l-1.27-1.36,1.27-1.41v2.77ZM5.11,5.2l-1.36,1.45-1.27-1.45h2.63ZM2.11,5.72l1.27,1.36-1.27,1.41v-2.77ZM2.11,10.08l1.27,1.41-1.27,1.36v-2.77ZM2.11,14.44l1.27,1.41-1.27,1.41v-2.81h0ZM3.8,16.31h0l1.31,1.41h-2.63l1.31-1.41h.01Z"/>
+    <path class="st1" d="M23.5,17.72h-7v.28h.5c.28,0,.5.22.5.5v1h1c.28,0,.5.22.5.5v.7h4.5c.28,0,.5-.22.5-.5v-1.98c0-.28-.22-.5-.5-.5Z"/>
+  </g>
+  <g>
+    <rect class="st1" x="5.5" y="20" width="13" height="2" rx=".5" ry=".5"/>
+    <path class="st1" d="M16,17.5c0-.28-.23-.5-.5-.5h-7c-.28,0-.5.22-.5.5v.5h8v-.5Z"/>
+    <path class="st1" d="M17,19c0-.28-.22-.5-.5-.5H7.5c-.28,0-.5.22-.5.5v.5h10v-.5Z"/>
+    <rect class="st1" x="13.53" y="1.78" width="1.97" height="3.42"/>
+    <rect class="st1" x="8.49" y="1.78" width="1.97" height="3.42"/>
+    <rect class="st1" x="11" y="1.78" width="1.97" height="3.42"/>
+  </g>
+</svg>
