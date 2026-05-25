@@ -1,10 +1,10 @@
 <h4 align="right"> 
-<a href="README.md">簡體中文</a> 
-<a href="README_en.md" style="margin: 0 10px;" >English</a> 
+<a href="README_cn.md">簡體中文</a> 
+<a href="README.md" style="margin: 0 10px;" >English</a> 
 <span href="README_tw.md">繁體</span>
 </h4>  
 <p align="center">
-    <img src="Logo_animat.svg" width=400/>
+    <img src="https://raw.githubusercontent.com/Paulsxb/StageX/refs/heads/main/Logo_animat.svg" width=400/>
 </p>
 <h1 align="center">StageX</h1>  
 <p align="center"><strong>向 Watchout 致敬，入門級多媒體播控軟件 StageX</strong>
@@ -51,7 +51,7 @@
 -   📺️ 雙屏模式：主屏控制端 + 外屏純淨播出端（投影 / LED 牆 / 副屏）
 -   💯 UI 設計參考剪映和OBS，界面簡潔，易于上手
 
-<img src="Stage_UI.png" width="100%" style="text-align: center"/>
+<img src="https://raw.githubusercontent.com/Paulsxb/StageX/refs/heads/main/Stage_UI.png" width="100%" style="text-align: center"/>
 
 ## 軟件說明
 
@@ -82,6 +82,6 @@
 <table style="text-align:center; width: 400px; border-collapse: collapse; border-spacing: 0; border: none;">
     <tr>
         <td style="padding: 0; margin: 0; border: none;"><img src="https://media.giphy.com/media/513lZvPf6khjIQFibF/giphy.gif"/></td>
-        <td style="padding: 0; margin: 0; border: none;"><a href="https://buymeacoffee.com/paulsxbe"><img src="Buymeacoffee.png" width=200/></a></td>
+        <td style="padding: 0; margin: 0; border: none;"><a href="https://buymeacoffee.com/paulsxbe"><img src="https://raw.githubusercontent.com/Paulsxb/StageX/refs/heads/main/Buymeacoffee.png" width=200/></a></td>
     </tr>
 </table>
