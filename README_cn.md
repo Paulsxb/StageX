@@ -82,6 +82,6 @@
 <table style="text-align:center; width: 400px; border-collapse: collapse; border-spacing: 0; border: none;">
     <tr>
         <td style="padding: 0; margin: 0; border: none;"><img src="https://media.giphy.com/media/513lZvPf6khjIQFibF/giphy.gif"/></td>
-        <td style="padding: 0; margin: 0; border: none;"><a href="https://buymeacoffee.com/paulsxbe"><img src="https://raw.githubusercontent.com/Paulsxb/StageX/refs/heads/main/Buymeacoffee.png" width=200/></a></td>
+        <td style="padding: 0; margin: 0; border: none;"><a href="https://ko-fi.com/stagex"><img src="https://raw.githubusercontent.com/Paulsxb/StageX/refs/heads/main/Buymeacoffee.png" width=200/></a></td>
     </tr>
 </table>
